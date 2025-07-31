@@ -63,7 +63,7 @@ Bu versiyon **Ege** tarafından 2025 yılında MIT Lisansı altında geliştiril
 
 - **İşletim Sistemi:** Windows 10, Linux (Ubuntu 18.04+ önerilir)  
 - **Python:** 3.8  
-- **CPU:** Dual-core 2.0 GHz  
+- **CPU:** Çift çekirdek 2.0 GHz  
 - **RAM:** 80 MB (sadece oyun için)  
 - **GPU:** OpenGL 3.3 destekli entegre grafik  
 - **Depolama:** 20 MB boş alan  
