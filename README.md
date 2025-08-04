@@ -4,7 +4,7 @@
 Bu versiyon **Ege** tarafından 2025 yılında MIT Lisansı altında geliştirilmiştir.
 
 > ⚠️ **UYARI**  
-> Bu depo, orijinal MiniPyEngine projesinin izinsiz bir kopyasıdır.  
+> Bu depo: https://github.com/mitoschan/MiniPyEngine-Turkce-Turkish-Edition , orijinal MiniPyEngine projesinin izinsiz bir kopyasıdır.  
 > ✅ Gerçek ve tek resmi proje burada yer almaktadır:  
 > [https://github.com/EgeOnderX/MiniPyEngine](https://github.com/EgeOnderX/MiniPyEngine)  
 >
@@ -15,7 +15,7 @@ Bu versiyon **Ege** tarafından 2025 yılında MIT Lisansı altında geliştiril
 ---
 
 > ⚠️ **WARNING: Copyright Infringement**  
-> This repository is an **unauthorized copy** of the official MiniPyEngine project.  
+> This repository: https://github.com/mitoschan/MiniPyEngine-Turkce-Turkish-Edition  is an **unauthorized copy** of the official MiniPyEngine project.  
 > ✅ The only legitimate version is hosted at:  
 > [https://github.com/EgeOnderX/MiniPyEngine](https://github.com/EgeOnderX/MiniPyEngine)  
 >
