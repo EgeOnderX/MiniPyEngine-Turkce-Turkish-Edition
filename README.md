@@ -3,6 +3,25 @@
 **MiniPyEngine**, ilk olarak Alexander Freyr Lúðvíksson tarafından 2023'te geliştirilen bir oyun motorunun yeniden yapılandırılmış ve genişletilmiş halidir.  
 Bu versiyon **Ege** tarafından 2025 yılında MIT Lisansı altında geliştirilmiştir.
 
+> ⚠️ **UYARI**  
+> Bu depo, orijinal MiniPyEngine projesinin izinsiz bir kopyasıdır.  
+> ✅ Gerçek ve tek resmi proje burada yer almaktadır:  
+> [https://github.com/EgeOnderX/MiniPyEngine](https://github.com/EgeOnderX/MiniPyEngine)  
+>
+> ⚖️ Bu repo hakkında GitHub'a resmi **DMCA bildirimi yapılmıştır.**  
+> Telif hakkı ihlali nedeniyle işlem süreci başlatılmıştır.
+> Lütfen orijinal projeyi kullanın, sahte sürümlerden uzak durun.
+
+---
+
+> ⚠️ **WARNING: Copyright Infringement**  
+> This repository is an **unauthorized copy** of the official MiniPyEngine project.  
+> ✅ The only legitimate version is hosted at:  
+> [https://github.com/EgeOnderX/MiniPyEngine](https://github.com/EgeOnderX/MiniPyEngine)  
+>
+> ⚖️ A **DMCA takedown notice has been filed** with GitHub for copyright violation.  
+> Legal review is in progress. Use only the original project, not unauthorized copies.
+
 ---
 
 ## 🚀 Özellikler
